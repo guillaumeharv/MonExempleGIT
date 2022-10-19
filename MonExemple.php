@@ -1,6 +1,5 @@
 <?php 
     echo "Yes!";
-    echo "J'ai fait cette modification sur le laptop!";
-    echo "what is the problem";
+    echo "Un autre test!";
     echo "Ok, j'ai une autre modif à faire.";
 ?>
