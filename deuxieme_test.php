@@ -2,5 +2,6 @@
     if($variable == 1)
         echo "test";
 
-    echo "nouvelle ligne sur l'ordinateur";
+    for($i = 0; $i < 3; $i++)
+        echo "nouvelle ligne sur l'ordinateur";
 ?>
