@@ -1,4 +1,6 @@
 <?php 
-    if($variable == 0)
+    if($variable == 1)
         echo "test";
+
+    echo "nouvelle ligne";
 ?>
